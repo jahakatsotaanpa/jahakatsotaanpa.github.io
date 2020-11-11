@@ -3,6 +3,7 @@ body { color:white;
   font-family: Arial, Helvetica, sans-serif; }
 header {
   background-color:#E6BDF5;
+  width: 90%;
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -16,6 +17,6 @@ nav {
 article {
   float: left;
   padding: 20px;
-  width: 80%;
+  width: 70%;
   background-color: #665CA9;
   height: 500px; }
