@@ -1,1 +1,8 @@
-
+body { color:white;
+  background-color:black;}
+h1 { font-size:10px;}
+p { font-size:12px;}
+p { color:green;}
+.lista { border: 2px dotted;
+  width: 100px;
+  height: 100px;}
