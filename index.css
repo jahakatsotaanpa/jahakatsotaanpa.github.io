@@ -6,3 +6,5 @@ p { color:green; }
 .lista { border: 2px dotted;
   width: 100px;
   height: 100px; }
+ol { list-style-type: alphabetic; }
+ul { list-style-type: square; }
