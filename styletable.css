@@ -1,1 +1,21 @@
-
+body { color:white;
+font-size:14px;
+background-color:grey;
+text-align: center; 
+text-shadow: 2px 2px 5px red; 
+font-family: "Lucida Console", "Courier New", monospace; }
+table {margin-left: auto;
+    margin-right: auto;
+	border: 2px solid black;
+	border-collapse: collapse;
+	width: 50%; }
+th { border: 2px solid black;
+border-collapse: collapse;
+	width: auto; }
+td { border: 2px solid black;
+border-collapse: collapse;
+	width: auto; }
+input { width: 20%; 
+border: 2px solid black; }
+textarea { border: 2px solid black; 
+width: 80px; }
